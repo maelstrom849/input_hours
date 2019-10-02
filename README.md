@@ -1,7 +1,7 @@
 # input_hours
 A program to automate inputting hours for Susquehanna University timesheets
 
-Needed dependencies are Python 3 and the Selenium library.
+Needed applications and libraries are Python 3 and the Selenium library.
 
 Selenium can be installed via pip using the command:
 
